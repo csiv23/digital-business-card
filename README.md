@@ -1,6 +1,6 @@
 # digital-business-card
 
-Project to create a functioning calculator using only HTML, CSS and Vanilla JS.
+Project to create a digital business card using React. 
 
 From Scrimba's Learn React for Free [curriculum]([https://www.theodinproject.com/lessons/foundations-calculator](https://scrimba.com/scrim/co16845f1bdcea2507e0acf3e)).
 
